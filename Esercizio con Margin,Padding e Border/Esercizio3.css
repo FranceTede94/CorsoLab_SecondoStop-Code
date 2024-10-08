@@ -1,0 +1,27 @@
+
+.primoblocco{
+    width: 400px;
+    height: auto;
+    background-color: beige;
+    margin-top: 10px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+    margin-left: 35px;
+    padding: 25px;
+    border-top: 10px solid black;
+    border-bottom: 10px solid black;
+    
+}
+
+.secondoblocco{
+
+    width: 300px;
+    height: auto;
+    text-align: center;
+    background-color: cadetblue;
+    margin: 15px;
+    padding-top: 10px;
+    padding-right: 35px;
+    padding-bottom: 10px;
+    padding-left: 35px;
+}  

@@ -1,0 +1,20 @@
+
+#primoblocco{
+    width: 450px;
+    height: 280px;
+    background-color: pink;
+    margin-top: 25px;
+    margin-right: 0px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+#secondoblocco{
+    width: 350px;
+    height: 230;
+    text-align: center;
+    background-color:aqua ;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 40px;
+}

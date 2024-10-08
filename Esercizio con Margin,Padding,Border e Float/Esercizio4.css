@@ -1,0 +1,30 @@
+h1{
+    color: red;
+}
+.primoblocco{
+    width: 400px;
+    height: auto;
+    background-color: beige;
+    margin-top: 15px;
+    margin-right: 0px;
+    margin-bottom: 15px;
+    margin-left: 0px;
+    padding: 20px;
+    border: black solid 5px;
+}
+
+.secondoblocco{
+    width: 340px;
+    height: auto;
+    text-align: center;
+    background-color: beige;
+    margin: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-left: 5px solid orange;
+    border-top: 10px solid green;
+    border-bottom: 10px solid green;
+    border-right: 5px solid orange;
+}
